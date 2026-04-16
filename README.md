@@ -168,9 +168,7 @@ pingall
 
 ![Blocked Ping](screenshots/ping_blocked.png)
 
-### 🔹 Controller Logs
 
-![Logs](screenshots/logs.png)
 
 ---
 
