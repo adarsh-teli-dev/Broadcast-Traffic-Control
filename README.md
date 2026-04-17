@@ -167,7 +167,8 @@ pingall
 
 ### 🔹 Controlled Network (Ping Failure)
 
-<img width="804" height="523" alt="WhatsApp Image 2026-04-16 at 12 04 07 AM" src="https://github.com/user-attachments/assets/c9568d23-d50d-475d-84e4-1a90222f5a2e" />
+<img width="799" height="529" alt="WhatsApp Image 2026-04-16 at 12 08 03 AM" src="https://github.com/user-attachments/assets/09d22a63-fd40-44c7-b445-fbd60b70cebf" />
+
 
 
 
