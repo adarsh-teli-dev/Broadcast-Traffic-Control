@@ -162,11 +162,13 @@ pingall
 
 ### 🔹 Normal Network (Ping Success)
 
-![Normal Ping](screenshots/ping_normal.png)
+<img width="807" height="530" alt="WhatsApp Image 2026-04-17 at 9 00 35 AM" src="https://github.com/user-attachments/assets/55393d67-94e5-4e0f-bc7c-e6e245498bb6" />
+
 
 ### 🔹 Controlled Network (Ping Failure)
 
-![Blocked Ping](screenshots/ping_blocked.png)
+<img width="804" height="523" alt="WhatsApp Image 2026-04-16 at 12 04 07 AM" src="https://github.com/user-attachments/assets/c9568d23-d50d-475d-84e4-1a90222f5a2e" />
+
 
 
 
